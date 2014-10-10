@@ -29,11 +29,11 @@
 
 <body>
 <div id="container"></div>
-<script src="three.min.js"></script>
-<script src="ColladaLoader.js"></script>
-<script src="Detector.js"></script>
-<script src="stats.min.js"></script>
-<script src="OrbitControls.js"></script>
+<script src=".../three.min.js"></script>
+<script src=".../ColladaLoader.js"></script>
+<script src=".../Detector.js"></script>
+<script src=".../stats.min.js"></script>
+<script src=".../OrbitControls.js"></script>
 
 
 <script>
@@ -45,7 +45,7 @@
 
     var loader = new THREE.ColladaLoader();
     loader.options.convertUpAxis = true;
-    loader.load( '03_Kubus.dae', function ( collada ) {
+    loader.load( '.../the-model.dae', function ( collada ) {
 
         dae = collada.scene;
 
