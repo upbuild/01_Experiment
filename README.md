@@ -7,4 +7,4 @@ This project is an academic experiment. The aim is clear and above. All codes ar
 
 Two weeks ago, I wanted to start the practical "coding-work", which is "the proof of concept" of an academic paper. The theoretical concept was developed over a very long time. With Three.js and together with all the tutorials, I can put the basics of the project into action.
 
-"01_Experiment" is Verion 1.0 of my "coding-vision".
+"01_Experiment" is verion 1.0 of my "coding-vision".
